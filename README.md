@@ -7,8 +7,7 @@ Este projeto é um ERP gratuito e open-source voltado para provedores de interne
 ## 🚀 Tecnologias Utilizadas
 ### **Frontend:**
 - ReactJS + NextJS
-- Styled Components / TailwindCSS
-- Axios para consumo da API
+- TailAdmin Next.js - Free
 
 ### **Backend:**
 - Python (FastAPI)
