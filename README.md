@@ -22,7 +22,7 @@ Este projeto é um ERP gratuito e open-source voltado para provedores de interne
 
 ## 🏗 Estrutura do Projeto
 ```bash
-/erp-isp
+/one
 │── backend/
 │   ├── app/
 │   │   ├── api/  # Rotas da API
@@ -61,8 +61,8 @@ Este projeto é um ERP gratuito e open-source voltado para provedores de interne
 ### **Passos**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/erp-isp.git
-   cd erp-isp
+   git clone https://github.com/developerdevice/One
+   cd One
    ```
 2. Configure as variáveis de ambiente:
    ```bash
